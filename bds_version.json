@@ -1,5 +1,16 @@
 {
     "Info": "Lista de versiones oficiales y estables de BDS.",
+    "versions": [
+        "1.10",
+        "1.11",
+        "1.12",
+        "1.13",
+        "1.14",
+        "1.16",
+        "1.17",
+        "1.18",
+        "1.19"
+    ],
     "version": [
         "1.10.0.7",
         "1.11.0.23",
