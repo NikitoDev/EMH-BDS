@@ -30,3 +30,4 @@ server-authoritative-block-breaking=false
 chat-restriction=None
 disable-player-interaction=false
 client-side-chunk-generation-enabled=true
+emit-server-telemetry=true
